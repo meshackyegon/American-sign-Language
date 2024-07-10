@@ -11,6 +11,7 @@ hd = HandDetector(maxHands=1)
 hd2 = HandDetector(maxHands=1)
 
 count = len(oss.listdir("D:\\ASL\\Sign-Language-To-Text-and-Speech-Conversion\\AtoZ_3.1\\A\\"))
+count = len(oss.listdir("C:\\Users\\Angaza Center\\Downloads\\American-sign-Language-main\\American-sign-Language-main\\FinalProject\\SourceCode\\AtoZ_3.1\\A\\"))
 c_dir = 'A'
 
 offset = 15
